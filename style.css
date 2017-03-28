@@ -1,3 +1,4 @@
+/*Format du logo google*/
 .images_petit {
 width:330px;
 height:150px;
@@ -6,40 +7,53 @@ margin-left: 70px;
 margin-top: -20px;
 }
 
-
+/*posionnement de l'en-tête*/
 #container {display: flex;
-float: right;}
+float: right;
+}
 .element {margin:15px;
-font-size: 10px;}
+font-size: 10px;
+}
 .element img {width: 15px;
-height: 15px;}
+height: 15px;
+}
 
+/*posionnement du logo*/
 .middleofpage {padding-top: 200px;
-padding-left: 400px;}
+padding-left: 400px;
+}
 
+/*posionnement des éléments formulaires*/
 #search {display: block;
 width: 550px;
 height: 37px;
 margin-left: -40px;
-box-shadow: 5px 5px 3px #D3D3D3; }
+box-shadow: 5px 5px 3px #D3D3D3;
+}
 #recherchegoogle {display: inline-block;
 margin-top:20px;
-margin-left: 90px;}
+margin-left: 90px;
+}
 #jaidelachance {display: inline-block;
-margin-top: 20px;}
+margin-top: 20px;
+}
 
+/*posionnement des éléments bas de page*/
 #elementleft {display: flex;
 margin-right: 700px;
-padding-right: 10px;}
-#elementright {display: flex;}
+padding-right: 10px;
+}
+#elementright {display: flex;
+}
 
 #elementleft p {margin: 10px;
-font-size: 10px;}
+font-size: 10px;
+}
 #elementright p {margin: 10px;
-font-size: 10px;}
+font-size: 10px;
+}
 
-
-
+/*Fond du footer*/
 #pieddepage {display: flex;
 background-color: rgb(235, 234, 230);
 width: 100%;
