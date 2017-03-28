@@ -1,0 +1,27 @@
+.images_petit {
+width:330px;
+height:150px;
+margin-bottom: 30px;
+margin-left: 70px;
+}
+
+*{border: 1px solid black;}
+
+#container {display: flex;
+float: right;}
+.element {margin:15px;}
+.element img {width: 25px;
+height: 25px;}
+
+.middleofpage {padding-top: 200px;
+padding-left: 400px;}
+
+#search {display: block;
+width: 600px;
+height: 30px;
+margin-left: -70px;}
+#recherchegoogle {display: inline-block;
+margin-top:20px;
+margin-left: 90px;}
+#jaidelachance {display: inline-block;
+margin-top: 20px;}
